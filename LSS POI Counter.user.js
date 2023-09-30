@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Leitstellenspiel POI Zähler
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      1.0
 // @description  Fügt einen Button hinzu, um POIs zu zählen und sie in einer Tabelle anzuzeigen.
-// @author       Sie
+// @author       MissSobol
 // @match        https://www.leitstellenspiel.de/
 // @grant        none
 // ==/UserScript==
